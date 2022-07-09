@@ -41,5 +41,4 @@ function  removeItem(elem,index){
     localStorage.setItem("pumadata", JSON.stringify(productsData))
     window.location.reload()
 
-
 }
